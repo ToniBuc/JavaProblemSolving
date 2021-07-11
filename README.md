@@ -5,3 +5,7 @@ Repo of Java solutions to problems from Karan's ["Projects"](https://github.com/
 - Find PI to the Nth Digit
 - Prime Factorization
 - Next Prime Number
+- Fizz Buzz
+- Reverse a String
+- Count Vowels
+- Check if Palindrome
