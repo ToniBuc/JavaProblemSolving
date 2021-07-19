@@ -1,0 +1,6 @@
+This is a test txt file meant for checking the number of words within a txt file
+
+Additional line for testing linebreaks
+
+Another line
+Another line again

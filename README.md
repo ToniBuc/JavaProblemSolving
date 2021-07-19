@@ -9,3 +9,4 @@ Repo of Java solutions to problems from Karan's ["Projects"](https://github.com/
 - Reverse a String
 - Count Vowels
 - Check if Palindrome
+- Count Words in a String (2 different solutions)
