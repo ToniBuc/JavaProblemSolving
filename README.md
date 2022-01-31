@@ -1,7 +1,6 @@
 # JavaProblemSolving
-Repo of Java solutions to different problems from:
+Repo of Java solutions to different problems from various sources.
 - Karan's ["Projects"](https://github.com/karan/Projects) Repository
-- AlgoExpert
 
 ## Currently solved problems (Karan)
 - Find PI to the Nth Digit
@@ -13,5 +12,5 @@ Repo of Java solutions to different problems from:
 - Check if Palindrome
 - Count Words in a String (2 different solutions)
 
-## Currently solved problems (AlgoExpert)
+## Currently solved problems (Others)
 - Validate Subsequence
